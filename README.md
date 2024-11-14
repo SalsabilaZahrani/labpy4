@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6efc1b33-288d-44e6-8061-43f67ae047be)# labpy4
+# labpy4
 
 # Praktikum 4
 
